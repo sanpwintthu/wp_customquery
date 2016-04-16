@@ -1,10 +1,11 @@
 # wp_customquery
 Wordpress Custom Query Tutorial
 
+#  Based Wordpress Bootstrap Basic themes
 Updated source code from Wordpress Bootstrap Basic themes
 
-# Bootstrap for Wordpress
-Bootstrap Wordpress Theme based on the Twitter Bootstrap toolkit
+# Required Wordpress Plugin
+advanced-custom-fields.4.4.6, fakerpress, types.2.0.1
 
 ## Demo
 For the demo, visit the [wpbootstrap website](http://wpbootstrap.iubenda.com)
